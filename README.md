@@ -24,4 +24,6 @@ https://style.potepan.com/articles/33682.html
 
 よって、ある一定の閉じられたコミュニティの中で、信頼のある人たちにのみ公開といった形であれば上手くいくのではないかと思う。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">作詞作曲をGithubで管理したら便利になったりせんかな？<br>有名アーティストの曲にpull reqしてみたりするのも楽しそう</p>&mdash; ラムダ🥒ラムダ技術部 (@yoidea) <a href="https://twitter.com/yoidea/status/958234118269026304?ref_src=twsrc%5Etfw">January 30, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+以下は、同じようなことをYouTuberのラムダさんが言っていたツイート。
+
+https://twitter.com/yoidea/status/958234118269026304?s=20&t=L6iwqoo8zotZwqD3s8j0Dw
