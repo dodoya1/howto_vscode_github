@@ -23,3 +23,5 @@ https://style.potepan.com/articles/33682.html
 ただ、バクマンで七峰透があまりに多くの人の意見を聞きすぎたりしたことでダメになったケースもある。
 
 よって、ある一定の閉じられたコミュニティの中で、信頼のある人たちにのみ公開といった形であれば上手くいくのではないかと思う。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">作詞作曲をGithubで管理したら便利になったりせんかな？<br>有名アーティストの曲にpull reqしてみたりするのも楽しそう</p>&mdash; ラムダ🥒ラムダ技術部 (@yoidea) <a href="https://twitter.com/yoidea/status/958234118269026304?ref_src=twsrc%5Etfw">January 30, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
